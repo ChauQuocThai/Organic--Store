@@ -11,6 +11,8 @@ Function: Admin Dashboard,CRUD product,proflie and Bill , selling vegetables, he
 
 Link demo: https://youtu.be/yTbMbj_3cTc
 
+Analysis and Desgin Document: https://drive.google.com/file/d/1CKyujKHIR1LwqXocvQJU7cf4cckjuazA/view?usp=sharing 
+
 
 ![image](https://github.com/ChauQuocThai/Organic--Store/assets/115797403/60551b95-12b9-41df-96e8-d663f738ad97)
 ![image](https://github.com/ChauQuocThai/Organic--Store/assets/115797403/271e6571-ec7a-454b-b9b2-dfd18601ce13)

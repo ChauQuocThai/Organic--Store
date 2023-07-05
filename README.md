@@ -7,7 +7,7 @@ Chau Quoc Thai ------ Nguyen Thanh Nguyen ------ Nguyen Vo Duc Anh
 
 Description: Website to Sell Vegetable and Fruit Support to customer that get a small garden in house 
 
-Functions: Admin Dashboard,CRUD product,proflie and Bill , selling vegetables, helping customers have a home garden model
+Functions: Admin Dashboard, CRUD product, proflie and Bill, selling vegetables, helping customers have a home garden model
 
 Link demo: https://youtu.be/yTbMbj_3cTc
 
